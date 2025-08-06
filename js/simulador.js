@@ -64,6 +64,6 @@ const productos = [
     }
   }
   
-  // Ejecutar simulador
+  // Iniciar el simulador
   iniciarSimulador();
   
